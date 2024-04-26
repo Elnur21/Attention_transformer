@@ -1,0 +1,2 @@
+Loss,Accuracy,Duration,Test Duration
+"tensor(1.1038, device='cuda:0', grad_fn=<DivBackward0>)",49.333333333333336,0.48220086097717285,0.03350424766540527
